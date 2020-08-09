@@ -1,0 +1,1 @@
+> npm install react next axios redux react-redux next-redux-wrapper redux-thunk
